@@ -1,0 +1,39 @@
+time_limit 30
+
+width 10
+length 10
+
+RebelSoldier_speed 5
+Leia_speed 20
+Programmer_speed 3
+Luke_speed 20
+Robot_speed 4
+Vader_speed 8
+
+RebelSoldier_radius 2
+Leia_radius 4
+Programmer_radius 1
+Luke_radius 4
+DD_radius 3
+Enemy_radius 100
+
+landscaping_time 2
+programming_time 1
+dd_setup_time 2
+capture_time 0
+
+RebelSoldier_number 2
+Programmer_number  1
+start_area_width 3
+start_area_length 3
+
+
+
+
+
+
+
+
+
+
+
